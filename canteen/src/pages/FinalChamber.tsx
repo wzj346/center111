@@ -14,7 +14,7 @@ const FinalChamber: React.FC = () => {
 
   const handleEscape = () => {
     // Redirect to the specified URL
-    window.location.href = 'https://jovial-naiad-a3ecb6.netlify.app/';
+    window.location.href = 'https://amber2713.github.io/end/digital/';
   };
 
   const handleStay = () => {
